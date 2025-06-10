@@ -128,7 +128,7 @@ const LoanCalculator = () => {
               data={data}
               innerRadius={60}
               outerRadius={80}
-              paddingAngle={7}
+              paddingAngle={3}
               dataKey="value"
             >
               {data.map((entry, index) => (
@@ -138,7 +138,7 @@ const LoanCalculator = () => {
                 />
               ))}
             </Pie>
-            <Legend verticalAlign="bottom" height={10} />
+            <Legend verticalAlign="bottom" height={50} />
           </PieChart>
         </ResponsiveContainer>
       </div>
