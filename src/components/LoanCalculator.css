@@ -1,5 +1,6 @@
 *{
   font-family:monospace;
+  
 }
 
 body{
@@ -88,4 +89,39 @@ input[type='range'] {
 
 .result-section div {
   margin-bottom: 0.5rem;
+}
+
+/* out */
+
+
+@media screen and (max-width: 768px) {
+  .calculator-card {
+    flex-direction: column; 
+    padding: 1rem; 
+    margin: 1rem auto;
+    max-width: 100%; 
+  }
+
+  .calculator-form {
+    min-width: auto; 
+    margin-right: 0; 
+  }
+
+  .chart-section {
+    min-width: auto; 
+    margin-top: 1rem;
+  }
+
+  h1 {
+    font-size: 1.5rem; 
+  }
+
+  .value-display {
+    min-width: 80px; 
+  }
+
+  .result-section {
+    font-size: 1rem; 
+    line-height: 1.5rem; 
+  }
 }
