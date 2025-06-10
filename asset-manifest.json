@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LoanEMICal/static/css/main.55df3973.css",
+    "main.css": "/LoanEMICal/static/css/main.59b1fc74.css",
     "main.js": "/LoanEMICal/static/js/main.8a0fc8e4.js",
     "static/media/new2.jpg": "/LoanEMICal/static/media/new2.bffcbf7d9d87eb7e757d.jpg",
     "static/media/image2.png": "/LoanEMICal/static/media/image2.7add9e619e4f58c0e278.png",
     "index.html": "/LoanEMICal/index.html",
-    "main.55df3973.css.map": "/LoanEMICal/static/css/main.55df3973.css.map",
+    "main.59b1fc74.css.map": "/LoanEMICal/static/css/main.59b1fc74.css.map",
     "main.8a0fc8e4.js.map": "/LoanEMICal/static/js/main.8a0fc8e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.55df3973.css",
+    "static/css/main.59b1fc74.css",
     "static/js/main.8a0fc8e4.js"
   ]
 }
