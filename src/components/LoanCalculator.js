@@ -134,7 +134,7 @@ const LoanCalculator = () => {
               {data.map((entry, index) => (
                 <Cell
                   key={`cell-${index}`}
-                  fill={entry.name === 'Interest Amount' ? '#0A41F5': '#000000'}
+                  fill={entry.name === 'Interest Amount' ? 'red': 'white'}
                 />
               ))}
             </Pie>
@@ -145,5 +145,6 @@ const LoanCalculator = () => {
     </div>
   );
 };
+<script src="js/myjQuery.js"></script>
 
 export default LoanCalculator;

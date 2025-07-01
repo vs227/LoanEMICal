@@ -10,7 +10,7 @@ body{
 
 .navbar {
     height: 90px;
-    background-color: #000426;
+    background: linear-gradient(-90deg, red, #000426);
     display: flex;
     align-items: end;
     justify-content:space-between;
@@ -30,7 +30,7 @@ body{
 .logo {
     height: 80px;
     width: 100%;
-    background-image: url("image2.png");
+    background-image: url("image22.png");
     background-size: cover;
     
 }

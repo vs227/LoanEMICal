@@ -4,7 +4,7 @@
 }
 
 body{
-  background-image:url("new2.jpg");
+  background-image:url("newr.avif");
   background-size: cover;
   font-family: Verdana, Geneva, Tahoma, sans-serif
 }
@@ -17,10 +17,10 @@ body{
   padding: 2rem;
   margin: 2rem auto;
   max-width: 1100px;
-  background-color: rgba(255, 255, 255, 0.466); /* Semi-transparent background */
-  backdrop-filter: blur(10px);
+  background-color: rgba(0, 0, 0, 0.445); /* Semi-transparent background */
+  backdrop-filter: blur(4px);
+  box-shadow: 0 0 10px red;
   border-radius: 12px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.08);
 }
 
 .calculator-form {
@@ -38,20 +38,19 @@ body{
 h1 {
   font-size: 2rem;
   margin-bottom: 1rem;
-  color: #000426;
+  color: white;
 }
 
 label {
   display: block;
   margin-top: 1.2rem;
-  color: #000426;
+  color: white;
 }
 
 .value-display {
   font-weight: bold;
   color: #103db9;
-  background-color: rgba(248, 246, 246, 0.347); /* Semi-transparent background */
-  backdrop-filter: blur(10px);
+  background-color: white;
   padding: 0.3rem 0.6rem;
   border-radius: 6px;
   margin: 0.4rem 0;
@@ -74,8 +73,9 @@ label {
 
 input[type='range'] {
   width: 100%;
-  margin-bottom: 1rem;
-  accent-color: #0A41F5;
+  margin-bottom: 2rem;
+  height:0.4rem;
+  accent-color: red;
   
 }
 
@@ -83,7 +83,7 @@ input[type='range'] {
   margin-top: 2rem;
   font-size: 1.2rem;
   line-height: 2rem;
-  color: #000426;
+  color: #ffffff;
   
 }
 
