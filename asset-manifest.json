@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LoanEMICal/static/css/main.59b1fc74.css",
-    "main.js": "/LoanEMICal/static/js/main.8a0fc8e4.js",
-    "static/media/new2.jpg": "/LoanEMICal/static/media/new2.bffcbf7d9d87eb7e757d.jpg",
-    "static/media/image2.png": "/LoanEMICal/static/media/image2.7add9e619e4f58c0e278.png",
+    "main.css": "/LoanEMICal/static/css/main.c61a8581.css",
+    "main.js": "/LoanEMICal/static/js/main.76490933.js",
+    "static/media/image22.png": "/LoanEMICal/static/media/image22.95d0985ca496a1b22dde.png",
+    "static/media/newr.avif": "/LoanEMICal/static/media/newr.d9d15f13392d7f3f8a2d.avif",
     "index.html": "/LoanEMICal/index.html",
-    "main.59b1fc74.css.map": "/LoanEMICal/static/css/main.59b1fc74.css.map",
-    "main.8a0fc8e4.js.map": "/LoanEMICal/static/js/main.8a0fc8e4.js.map"
+    "main.c61a8581.css.map": "/LoanEMICal/static/css/main.c61a8581.css.map",
+    "main.76490933.js.map": "/LoanEMICal/static/js/main.76490933.js.map"
   },
   "entrypoints": [
-    "static/css/main.59b1fc74.css",
-    "static/js/main.8a0fc8e4.js"
+    "static/css/main.c61a8581.css",
+    "static/js/main.76490933.js"
   ]
 }
